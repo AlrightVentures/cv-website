@@ -1,0 +1,78 @@
+/*************TAG SELECTORS*************/
+
+body {
+  background-color: #ffffff;
+  font-family: arial, sans-serif;
+  margin: 0;
+}
+
+hr {
+  border-color: #f1f1f1;
+  border-width: 1px;
+}
+
+img {
+  height: 100px;
+}
+
+h1 {
+  color:#2d2d2d;
+}
+
+/*************CLASS SELECTORS*************/
+
+.bottom-container {
+
+background-color: #f1f1f1;
+border-top: 1px solid #d2d2d2;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+
+.bottom-copy {
+  margin-left: 150px;
+}
+
+.circular {
+  border-radius: 100%;
+}
+
+.top-container {
+}
+
+.middle-container {
+  top: 250px;
+  margin-left: 150px;
+}
+
+.g_blue {
+  color:#4285F4;
+}
+
+.g_red {
+  color: #DB4437;
+}
+
+.g_yellow {
+  color: #F4B400;
+}
+
+.g_green {
+  color: #0F9D58;
+}
+
+.g_light_grey {
+  color: #f1f1f1;
+}
+
+.g_dark_grey {
+  color: #d2d2d2;
+}
+
+.g_darkest_grey {
+  color: #2d2d2d;
+}
+
+.tick-image {
+  height: 20px;;
+}
